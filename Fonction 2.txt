@@ -1,4 +1,8 @@
 fontion 2
 
+<<<<<<< HEAD
 
 ajout
+=======
+mouhahah
+>>>>>>> origin/Fonction-6
